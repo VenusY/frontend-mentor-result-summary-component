@@ -1,18 +1,18 @@
 [
   {
-    "category": "Reaction",
+    "name": "Reaction",
     "score": 80
   },
   {
-    "category": "Memory",
+    "name": "Memory",
     "score": 92
   },
   {
-    "category": "Verbal",
+    "name": "Verbal",
     "score": 61
   },
   {
-    "category": "Visual",
+    "name": "Visual",
     "score": 72
   }
 ]
