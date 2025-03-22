@@ -1,3 +1,4 @@
+import './styles/reset.css';
 import ResultSection from './components/ResultSection.jsx';
 import SummarySection from './components/SummarySection.jsx';
 
