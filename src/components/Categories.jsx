@@ -5,7 +5,7 @@ export default function Categories() {
     <>
       {data.map((category) => {
         return (
-          <div className='category'>
+          <div key={category.name} className='category'>
             <img
               src={require(`../assets/images/icon-${category.name.toLowerCase()}.svg`)}
               alt={`${category.name} icon`}
