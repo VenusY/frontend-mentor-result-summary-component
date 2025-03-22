@@ -1,3 +1,4 @@
+import '../styles/scss/ResultSection.scss';
 import Score from './Score';
 import Description from './Description';
 

@@ -1,0 +1,56 @@
+@use './util' as u;
+
+.result-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-block: 20px 40px;
+  padding-inline: 50px;
+  border-radius: 0 0 30px 30px;
+  background: var(--bg-gradient);
+  color: var(--pale-blue);
+
+  &__heading {
+    margin-bottom: u.rem(20);
+    font-size: u.rem(18);
+    font-weight: 700;
+    color: var(--light-lavender);
+  }
+
+  &__score {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 140px;
+    height: 140px;
+    margin-bottom: u.rem(30);
+    border-radius: 50%;
+    background: var(--circle-bg-gradient);
+  }
+
+  &__value {
+    margin-bottom: 5px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1;
+    color: white;
+  }
+
+  &__divisor {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--light-lavender);
+  }
+}
+
+.description {
+  text-align: center;
+
+  &__heading {
+    margin-bottom: u.rem(5);
+    font-size: u.rem(22);
+    font-weight: 700;
+    color: white;
+  }
+}
