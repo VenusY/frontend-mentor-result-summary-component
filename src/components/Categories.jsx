@@ -1,4 +1,4 @@
-import data from 'data.json';
+import data from '../data.json';
 
 export default function Categories() {
   return (
@@ -6,7 +6,7 @@ export default function Categories() {
       {data.map((category) => {
         <div className='category'>
           <img
-            src={require(`../images/icon-${category.name.toLowerCase()}.svg`)}
+            src={require(`../assets/images/icon-${category.name.toLowerCase()}.svg`)}
             alt={`${category.name} icon`}
             className='category__icon'
           />
