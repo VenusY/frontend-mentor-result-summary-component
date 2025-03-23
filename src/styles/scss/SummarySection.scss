@@ -5,8 +5,10 @@
   padding-top: 20px;
 
   &__heading {
+    margin-bottom: u.rem(20);
     font-size: u.rem(18);
     font-weight: 700;
+    color: var(--dark-grey-blue);
   }
 
   &__button {
