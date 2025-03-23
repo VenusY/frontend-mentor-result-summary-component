@@ -1,3 +1,4 @@
+import '../styles/scss/SummarySection.scss';
 import Categories from './Categories';
 
 export default function SummarySection() {
