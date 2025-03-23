@@ -25,7 +25,7 @@ function q(c,a,g){var b,d={},e=null,h=null;void 0!==g&&(e=""+g);void 0!==a.key&&
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-module.exports = __webpack_require__.p + "cc1204a0b0559da591a3.svg";
+module.exports = __webpack_require__.p + "assets/icon-verbal.svg";
 
 /***/ }),
 
@@ -115,7 +115,7 @@ webpackContext.id = 377;
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-module.exports = __webpack_require__.p + "0c1d6b98b4559ba72276.svg";
+module.exports = __webpack_require__.p + "assets/icon-reaction.svg";
 
 /***/ }),
 
@@ -493,7 +493,7 @@ exports.unstable_renderSubtreeIntoContainer=function(a,b,c,d){if(!ol(c))throw Er
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-module.exports = __webpack_require__.p + "61fc2697d5094b6e3962.svg";
+module.exports = __webpack_require__.p + "assets/icon-visual.svg";
 
 /***/ }),
 
@@ -501,7 +501,7 @@ module.exports = __webpack_require__.p + "61fc2697d5094b6e3962.svg";
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-module.exports = __webpack_require__.p + "22a9e0501e58960f3c34.svg";
+module.exports = __webpack_require__.p + "assets/icon-memory.svg";
 
 /***/ }),
 
