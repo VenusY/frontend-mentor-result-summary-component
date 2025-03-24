@@ -45,7 +45,4 @@ module.exports = {
       filename: 'style.css',
     }),
   ],
-  optimization: {
-    minimizer: [new CssMinimizerPlugin()],
-  },
 };
